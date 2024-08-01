@@ -13,11 +13,10 @@ Sonic Loader is a mobile loading system that can access contacts and give offers
 
 ## 📸 Screenshots
 
-***COPY PASTE TO MAKE IT PUBLIC!!!***
-<img src="https://github.com/user-attachments/assets/8dd32922-d7b8-47e3-a231-338e9b6cb12c" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/1d1fc6f1-3fc8-4162-a6c3-cd97c06a9758" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/ac501409-8cf4-4f18-bfb4-155f6b251f65" width="400" alt="image">
-<img src="https://github.com/user-attachments/assets/c661780a-f1b8-4eb4-85a2-52b10b0f8672" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/c2c14f12-7129-415d-94eb-e38ec7fcf5b3" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/9716bd19-e3d2-41fd-98d7-1741f0de4214" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/9cfe7da4-2e7b-4e1e-9c22-91611d53d8f6" width="400" alt="image">
+<img src="https://github.com/user-attachments/assets/2601a510-6457-447f-b7d3-ebd05629df14" width="400" alt="image">
 
 ## ⛳ Getting Started
 
